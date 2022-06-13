@@ -1,6 +1,6 @@
 <template>
+  <img src="./assets/pregunta.png" alt="" />
   <VuemonPage />
-  
 </template>
 
 <script>
@@ -20,7 +20,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #18314a;
   margin-top: 60px;
 }
 </style>

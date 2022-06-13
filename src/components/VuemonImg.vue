@@ -35,6 +35,7 @@ export default {
 <style scoped>
 .vuokemon-container {
   height: 200px;
+  margin-top: 2.5em;
 }
 
 img {
